@@ -1,0 +1,26 @@
+Name:
+Email:
+Phone:
+
+Summary:
+(A short summary of your qualifications and experience, highlighting your strengths and how they align with the position you're applying for)
+
+Education:
+- Degree in Computer Science, Institution Name, Graduation Date
+- Relevant coursework: Data Structures, Algorithms, Operating Systems, Computer Networks, etc.
+- Relevant projects: Project Name (Brief description and technology used), Project Name (Brief description and technology used)
+
+Experience:
+- Job Title, Company Name, Employment Dates
+  - Responsibilities: (List of responsibilities and accomplishments in bullet form)
+- Job Title, Company Name, Employment Dates
+  - Responsibilities: (List of responsibilities and accomplishments in bullet form)
+
+Skills:
+- Programming languages: (List programming languages you know)
+- Frameworks and technologies: (List any relevant frameworks and technologies you have experience with)
+- Tools: (List any relevant tools you have experience with)
+- Other skills: (List any other skills you have that are relevant to the position)
+
+Certifications:
+- (List any certifications you have that are relevant to the position)
